@@ -1,1 +1,1 @@
-"From Zero to Hero"
+print("From Zero to Hero")
